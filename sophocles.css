@@ -38,3 +38,10 @@
     background-color: yellow;
   }
 
+  h4:hover {
+    text-shadow: 2px 2px 6px orange; 
+    border: 2px solid teal;       
+    padding: 3px;                
+    transition: all 0.2s ease;     
+   }
+
