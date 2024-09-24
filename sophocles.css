@@ -24,4 +24,17 @@
     color:darkblue; 
  }
 
+ table{
+    width: 60%;
+    border-collapse: collapse;
+  }
+  th,td {
+    border: 2px solid black;
+    padding: 6px;
+    text-align: center;
+    
+  }
+  th{
+    background-color: yellow;
+  }
 
